@@ -1,0 +1,18 @@
+{
+  "blog" : [
+
+        {
+            "title":"My new wevsite",
+            "body": "lorem ipsum...",
+            "author" :"mari",
+            "id" : 1
+        },
+        {
+            "title":"Welcome to new wevsite",
+            "body": "lorem ipsum...",
+            "author" :"loria",
+            "id" : 2
+        }
+    ]
+}
+
